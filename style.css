@@ -4,7 +4,7 @@
   font-family: "Lato", sans-serif;
 }
 
-.aaa {
+.eisenhower-matrix {
   width: 500px;
   margin: 0 auto;
   display: block;
@@ -15,7 +15,7 @@
   width: 100%;
 }
 
-.aaa .more_inf {
+.eisenhower-matrix__link {
   font-family: fantasy, cursive;
 }
 
@@ -159,7 +159,7 @@
 
 @media (max-width: 768px) {
 
-  .aaa {
+  .eisenhower-matrix {
     text-align: center;
   }
 
