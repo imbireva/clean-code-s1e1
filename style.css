@@ -1,4 +1,3 @@
-/* Basic Style */
 .page {
   background-color: #f8f8f8;
   color: #333;
@@ -63,7 +62,6 @@
   color: #3a3a3a;
 }
 
-/* Heading */
 .title,
 .add-task-block__label {
   color: #333;
@@ -92,7 +90,6 @@
   color: #333;
 }
 
-/* New Task */
 .add-task-block__label {
   display: block;
   margin: 0 0 20px;
@@ -102,7 +99,6 @@
   width: 318px;
 }
 
-/* Task list */
 .list__item {
   overflow: hidden;
   padding: 20px 0;
@@ -141,13 +137,11 @@
   transform: rotateZ(0);
 }
 
-/* Completed */
 .completed-tasks-list .label {
   text-decoration: line-through;
   color: #888;
 }
 
-/* Edit Task */
 .list__item .input_text {
   display: none;
 }
